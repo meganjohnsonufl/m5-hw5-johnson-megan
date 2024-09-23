@@ -29,7 +29,7 @@ header {
 h1 {
     width: 50%;
     display: inline-block;
-    color: teal;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
 }
@@ -41,7 +41,7 @@ nav {
 }
 
 nav a {
-    color: teal;
+    color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0 10px;
     text-decoration: none;
@@ -65,11 +65,13 @@ aside {
     vertical-align: top;
     background-color: white;
     padding: 20px;
+    margin: 20px;
 }
 
 p {
     margin: 15px 0;
     line-height: 140%;
+    font-family: sans-serif;
 }
 
 .headshot {
